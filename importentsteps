@@ -1,0 +1,4 @@
+create credential of a. docker_hub_login
+b. github
+c. webserver_login
+prod_ip need to update in config-->enviornment area
